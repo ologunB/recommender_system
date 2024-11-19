@@ -1,0 +1,101 @@
+movieId,title,genres,description
+1,Movie 1,Animation,Description of Movie 1
+2,Movie 2,"Thriller, Animation",Description of Movie 2
+3,Movie 3,"Comedy, Action, Documentary",Description of Movie 3
+4,Movie 4,"Sci-Fi, Action",Description of Movie 4
+5,Movie 5,"Comedy, Romance, Documentary",Description of Movie 5
+6,Movie 6,"Comedy, Thriller",Description of Movie 6
+7,Movie 7,"Horror, Drama",Description of Movie 7
+8,Movie 8,Horror,Description of Movie 8
+9,Movie 9,"Animation, Action, Romance",Description of Movie 9
+10,Movie 10,"Documentary, Thriller",Description of Movie 10
+11,Movie 11,Horror,Description of Movie 11
+12,Movie 12,Animation,Description of Movie 12
+13,Movie 13,"Documentary, Drama",Description of Movie 13
+14,Movie 14,Drama,Description of Movie 14
+15,Movie 15,"Documentary, Horror, Sci-Fi",Description of Movie 15
+16,Movie 16,"Horror, Thriller",Description of Movie 16
+17,Movie 17,"Animation, Sci-Fi",Description of Movie 17
+18,Movie 18,"Horror, Action",Description of Movie 18
+19,Movie 19,"Animation, Comedy",Description of Movie 19
+20,Movie 20,"Thriller, Action",Description of Movie 20
+21,Movie 21,"Drama, Romance",Description of Movie 21
+22,Movie 22,"Animation, Sci-Fi",Description of Movie 22
+23,Movie 23,"Sci-Fi, Animation",Description of Movie 23
+24,Movie 24,"Drama, Romance, Horror",Description of Movie 24
+25,Movie 25,"Action, Romance, Animation",Description of Movie 25
+26,Movie 26,Drama,Description of Movie 26
+27,Movie 27,"Horror, Drama",Description of Movie 27
+28,Movie 28,"Animation, Thriller",Description of Movie 28
+29,Movie 29,"Drama, Documentary",Description of Movie 29
+30,Movie 30,Comedy,Description of Movie 30
+31,Movie 31,Sci-Fi,Description of Movie 31
+32,Movie 32,Romance,Description of Movie 32
+33,Movie 33,"Documentary, Romance, Horror",Description of Movie 33
+34,Movie 34,"Action, Sci-Fi",Description of Movie 34
+35,Movie 35,Sci-Fi,Description of Movie 35
+36,Movie 36,"Animation, Sci-Fi, Comedy",Description of Movie 36
+37,Movie 37,"Drama, Thriller",Description of Movie 37
+38,Movie 38,Comedy,Description of Movie 38
+39,Movie 39,Thriller,Description of Movie 39
+40,Movie 40,Drama,Description of Movie 40
+41,Movie 41,"Action, Comedy, Thriller",Description of Movie 41
+42,Movie 42,Comedy,Description of Movie 42
+43,Movie 43,"Animation, Horror",Description of Movie 43
+44,Movie 44,Thriller,Description of Movie 44
+45,Movie 45,"Comedy, Thriller",Description of Movie 45
+46,Movie 46,Thriller,Description of Movie 46
+47,Movie 47,Documentary,Description of Movie 47
+48,Movie 48,Action,Description of Movie 48
+49,Movie 49,"Thriller, Action, Comedy",Description of Movie 49
+50,Movie 50,Thriller,Description of Movie 50
+51,Movie 51,"Romance, Horror, Comedy",Description of Movie 51
+52,Movie 52,"Romance, Sci-Fi, Thriller",Description of Movie 52
+53,Movie 53,"Horror, Action",Description of Movie 53
+54,Movie 54,"Thriller, Action",Description of Movie 54
+55,Movie 55,"Comedy, Romance",Description of Movie 55
+56,Movie 56,"Thriller, Animation, Comedy",Description of Movie 56
+57,Movie 57,"Thriller, Action, Romance",Description of Movie 57
+58,Movie 58,"Horror, Thriller, Romance",Description of Movie 58
+59,Movie 59,"Horror, Action",Description of Movie 59
+60,Movie 60,Sci-Fi,Description of Movie 60
+61,Movie 61,"Romance, Horror, Documentary",Description of Movie 61
+62,Movie 62,Comedy,Description of Movie 62
+63,Movie 63,Romance,Description of Movie 63
+64,Movie 64,"Horror, Thriller",Description of Movie 64
+65,Movie 65,Thriller,Description of Movie 65
+66,Movie 66,"Action, Animation",Description of Movie 66
+67,Movie 67,"Romance, Horror",Description of Movie 67
+68,Movie 68,"Romance, Horror",Description of Movie 68
+69,Movie 69,"Animation, Action",Description of Movie 69
+70,Movie 70,Comedy,Description of Movie 70
+71,Movie 71,"Animation, Drama",Description of Movie 71
+72,Movie 72,Thriller,Description of Movie 72
+73,Movie 73,"Sci-Fi, Romance",Description of Movie 73
+74,Movie 74,"Thriller, Horror",Description of Movie 74
+75,Movie 75,"Comedy, Animation, Drama",Description of Movie 75
+76,Movie 76,"Romance, Documentary, Comedy",Description of Movie 76
+77,Movie 77,Action,Description of Movie 77
+78,Movie 78,"Romance, Documentary, Horror",Description of Movie 78
+79,Movie 79,"Romance, Sci-Fi",Description of Movie 79
+80,Movie 80,"Action, Documentary, Thriller",Description of Movie 80
+81,Movie 81,"Action, Thriller",Description of Movie 81
+82,Movie 82,Thriller,Description of Movie 82
+83,Movie 83,"Drama, Sci-Fi, Animation",Description of Movie 83
+84,Movie 84,Animation,Description of Movie 84
+85,Movie 85,Romance,Description of Movie 85
+86,Movie 86,"Action, Animation",Description of Movie 86
+87,Movie 87,"Sci-Fi, Drama",Description of Movie 87
+88,Movie 88,"Thriller, Comedy",Description of Movie 88
+89,Movie 89,"Documentary, Drama, Comedy",Description of Movie 89
+90,Movie 90,Drama,Description of Movie 90
+91,Movie 91,"Drama, Sci-Fi",Description of Movie 91
+92,Movie 92,"Horror, Drama, Action",Description of Movie 92
+93,Movie 93,"Action, Thriller",Description of Movie 93
+94,Movie 94,Comedy,Description of Movie 94
+95,Movie 95,"Thriller, Action, Drama",Description of Movie 95
+96,Movie 96,Horror,Description of Movie 96
+97,Movie 97,"Comedy, Horror, Drama",Description of Movie 97
+98,Movie 98,"Action, Romance",Description of Movie 98
+99,Movie 99,"Comedy, Documentary, Romance",Description of Movie 99
+100,Movie 100,"Comedy, Sci-Fi",Description of Movie 100
